@@ -1,6 +1,6 @@
 # बालकाण्ड {#-}
 
-## Chapter 1 / सर्गः १ {#chapter-1-}
+## सर्गः १ / Chapter 1 {#chapter-1-}
 
 ---
 
