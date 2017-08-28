@@ -1,3 +1,4 @@
-# My Awesome Book
+# श्रीरामचरितमानस
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+पुरातन काल में जब देवभाषा संस्कृत बोलचाल की भाषा नहीं रही तब 16 वी शताब्दी में महाकवि तुलसीदास जी ने बाल्मीकि रामायण को अवधी भाषा में लिखा जो रामचरितमानस के नाम से विख्यात हुआ\|
+
